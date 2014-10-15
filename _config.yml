@@ -1,0 +1,12 @@
+# Site settings
+title: AyCrazy Jekyll
+email: aty003@bucknell.edu
+description: > # this means to ignore newlines until "baseurl:"
+  First Jekyll Blog-site arrright.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "aycrazy.github.io" # the base hostname & protocol for your site
+twitter_username: andrewyaspan
+github_username:  Aycrazy
+
+# Build settings
+markdown: kramdown
