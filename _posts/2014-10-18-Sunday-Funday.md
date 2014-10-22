@@ -6,7 +6,7 @@ date: 2014-10-18
 <div class="post">
 
   <header class="post-header"> 
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta"></p>
   </header>
 
   <article class="post-content">
