@@ -10,7 +10,7 @@ date: 2014-10-22
   </header>
 
   <article class="post-content">
-    {{ content }} <i>You don't get everything from a texbook </i>
+    {{ content }} <p><i>You don't get everything from a texbook </i></p>git
    
 
     
@@ -20,7 +20,7 @@ date: 2014-10-22
     
     <p> Are we an opportunity society?</p>
     
-    <p> Is our society/community at-risk of losing sight of what is important, of what are values are or even having them?</p?
+    <p> Is our society/community at-risk of losing sight of what is important, of what are values are or even having them?</p>
     
     <p> Are we disadvantaged by the structure of our made-environments, to see what makes a society great?</p>
     
