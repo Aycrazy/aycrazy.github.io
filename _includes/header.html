@@ -13,16 +13,16 @@
         </svg>
       </a>
 
-      <div class="trigger">
+      div class="trigger">
+        {% for page in site.pages %}
+          {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
       
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="https://andrewyaspan-github-io-aycrazy.c9.io/index.html">Site</a>
-          {% endif %}
-        {% endfor %}
+         <a class="page-link" href="https://andrewyaspan-github-io-aycrazy.c9.io/index.html">Site</a>
       </div>
       
     </nav>
