@@ -10,7 +10,7 @@ date: 2015-5-31
   </header>
 
   <article class="post-content">
-    {{ content }} <p><i>You don't get everything from a texbook </i></p>
+    {{ content }} <p><i> Thoughts on creativity, competition and finding a unique role </i></p>
    
   </article>
 </div>
